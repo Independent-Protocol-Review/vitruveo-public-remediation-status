@@ -76,6 +76,19 @@ Technical defects, centralized controls, incomplete disclosures, or unresolved s
 This repository documents technical and governance evidence and distinguishes observed facts from interpretation.
 
 ## Current report
+### Permanent archive
+
+Zenodo DOI for the September 19, 2026 release:
+
+**https://doi.org/10.5281/zenodo.22853351**
+
+All-versions DOI:
+
+**https://doi.org/10.5281/zenodo.22853350**
+
+GitHub release:
+
+https://github.com/Independent-Protocol-Review/vitruveo-public-remediation-status/releases/tag/v2026.09.19
 
 **Vitruveo Public Remediation Status Report — September 19, 2026**
 
