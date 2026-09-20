@@ -12,10 +12,7 @@ It is **not affiliated with, sponsored by, operated by, or acting on behalf of**
 * Vertical Foundation
 * Pretrend
 * VTRU (BVI) PTE LTD
-* BarnBoard Incorporated
-* Pro File NFT
-* Salvage Atlas
-* Uni Async
+
 
 The purpose of this repository is to preserve dated, reproducible public-source technical observations and track whether previously reported findings have been publicly demonstrated as repaired.
 
