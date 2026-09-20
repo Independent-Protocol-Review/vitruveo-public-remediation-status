@@ -102,6 +102,24 @@ Reports are published as dated versions rather than silently overwritten.
 
 Material corrections or later remediation will be recorded in subsequent commits or releases so that the historical record remains available.
 
+### Permanent archive
+
+Zenodo DOI for the September 19, 2026 release:
+
+**https://doi.org/10.5281/zenodo.22853351**
+
+All-versions DOI:
+
+**https://doi.org/10.5281/zenodo.22853350**
+
+GitHub release:
+
+https://github.com/Independent-Protocol-Review/vitruveo-public-remediation-status/releases/tag/v2026.09.19
+
+Internet Archive mirror:
+
+https://archive.org/details/vitruveo-public-remediation-status-2026-09-19
+
 ---
 
 Independent-Protocol-Review
